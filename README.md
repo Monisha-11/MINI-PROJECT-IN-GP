@@ -1,6 +1,6 @@
 ## MINI PROJECT - IN UNREAL ENGINE
 
-# TOPIC - SHOOT THE SHIELD - A THRILLING SHOOTING GAME IN UNREAL ENGINE.
+# TOPIC - SHOOT THE SHIELD - A THRILLING SHOOTING GAME IN UNREAL ENGINE
 
 ## CONCEPT:
 "Shoot the Shield" is an intense action game where players aim to strategically destroy shields using precision shooting skills, overcoming challenging obstacles in visually stunning environments. Navigate through levels, master your aim, and unleash your firepower to conquer each shield and emerge victorious.
